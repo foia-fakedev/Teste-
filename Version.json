@@ -1,7 +1,10 @@
 {
   "version": "1.62.2",
   "status": "success",
-  "download_url": "https://vercel.app",
-  "update_url": "https://vercel.app",
-  "is_update": false
+  "download_url": "https://seu-link-direto-do-apk-ou-obb.com",
+  "update_url": "https://seu-site-ou-canal.com",
+  "is_update": false,
+  "server_ip": "127.0.0.1",
+  "port": 8080,
+  "maintenance": false
 }
