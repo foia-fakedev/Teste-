@@ -1,10 +1,10 @@
 {
   "version": "1.62.2",
-  "status": "success",
-  "download_url": "https://seu-link-direto-do-apk-ou-obb.com",
-  "update_url": "https://seu-site-ou-canal.com",
+  "test_version": "1.62.2",
   "is_update": false,
-  "server_ip": "127.0.0.1",
-  "port": 8080,
+  "force_update": false,
+  "patch_url": "https://seu-link-no-vercel.vercel.app/patch/",
+  "resource_url": "https://seu-link-no-vercel.vercel.app/res/",
+  "cdn_url": "https://seu-link-no-vercel.vercel.app/cdn/",
   "maintenance": false
 }
