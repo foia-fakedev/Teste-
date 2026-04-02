@@ -3,8 +3,8 @@
   "test_version": "1.62.2",
   "is_update": false,
   "force_update": false,
-  "patch_url": "https://seu-link-no-vercel.vercel.app/patch/",
-  "resource_url": "https://seu-link-no-vercel.vercel.app/res/",
-  "cdn_url": "https://seu-link-no-vercel.vercel.app/cdn/",
+  "patch_url": "https://ff-serve-1622.vercel.app/patch/",
+  "resource_url": "https://ff-serve-1622.vercel.app/res/",
+  "cdn_url": "https://ff-serve-1622.vercel.app/cdn/",
   "maintenance": false
 }
